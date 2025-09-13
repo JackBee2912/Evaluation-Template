@@ -11,35 +11,35 @@
 
 ## II. Evaluation Components & Metrics
 
-### 1. Project Progress (30 STEP)
+### 1. Project Progress (30 POINT)
 - [ ] **Timeline Adherence (0–15)**: milestone đạt đúng kế hoạch, ít trễ hạn.  
 - [ ] **Scope Management (0–10)**: kiểm soát scope, tránh phát sinh lớn.  
 - [ ] **Resource Utilization (0–5)**: sử dụng nhân lực, chi phí hợp lý.  
 
 ---
 
-### 2. Project Quality (30 STEP)
+### 2. Project Quality (30 POINT)
 - [ ] **Delivery Quality (0–15)**: output đáp ứng yêu cầu, ít rework.  
 - [ ] **Defect Rate & Stability (0–10)**: bug rate trên STG/PROD.  
 - [ ] **Technical Excellence (0–5)**: kiến trúc, clean code, CI/CD pipeline.  
 
 ---
 
-### 3. Team Collaboration (20 STEP)
+### 3. Team Collaboration (20 POINT)
 - [ ] **Cross-Team Communication (0–10)**: phối hợp Dev–QA–PO–Infra.  
 - [ ] **Problem Solving (0–5)**: xử lý blocker nhanh, escalation hợp lý.  
 - [ ] **Knowledge Sharing (0–5)**: training, document, onboarding.  
 
 ---
 
-### 4. Client / Stakeholder Satisfaction (20 STEP)
+### 4. Client / Stakeholder Satisfaction (20 POINT)
 - [ ] **Requirement Alignment (0–10)**: đáp ứng kỳ vọng business.  
 - [ ] **Feedback & Recognition (0–5)**: phản hồi tích cực từ stakeholder/client.  
 - [ ] **Transparency & Reporting (0–5)**: báo cáo, update tiến độ đầy đủ.  
 
 ---
 
-### 5. Bonus / Malus (±20 STEP)
+### 5. Bonus / Malus (±20 POINT)
 ✅ Bonus:  
 - [ ] Giải pháp technical có tác động lớn (+5 → +10)  
 - [ ] Được client/stakeholder khen ngợi với bằng chứng (+5 → +10)  
@@ -66,7 +66,7 @@
 
 ## IV. Classification
 
-| Classification | Range (STEP) | Ý nghĩa |
+| Classification | Range (POINT) | Ý nghĩa |
 |----------------|--------------|---------|
 | 🌟 Excellent   | ≥ 95         | Project thành công vượt mong đợi |
 | 👍 Good        | 80 – 94      | Đáp ứng yêu cầu, đạt kỳ vọng |
@@ -86,7 +86,7 @@
 - **Lessons Learned:**  
   _(Điều rút ra, cần cải thiện cho dự án tiếp theo)_  
 
-- **Action Plan / Next Steps:**  
+- **Action Plan / Next POINTs:**  
   _(Kế hoạch cải tiến, chuẩn bị cho dự án sau)_  
 
 ---
